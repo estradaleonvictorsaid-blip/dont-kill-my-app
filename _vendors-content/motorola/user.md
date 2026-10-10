@@ -1,3 +1,4 @@
+se me cierran las aplicaciones 
 ---
 manufacturer: 
     - motorola
